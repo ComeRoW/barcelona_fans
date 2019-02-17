@@ -1,0 +1,232 @@
+body {
+    background-color: rgb(119, 233, 218);
+}
+img.fon {
+    cursor: pointer;
+    border-color: rgb(192, 171, 212);
+    border-radius: 15px;
+    margin-top: 30px;
+    display: block;
+    margin: auto;
+    width: 1750px;
+    height: 900px;
+
+    position: relative;
+    top: 10px;
+}
+span.hi {
+    color: black;
+
+}
+span.fcb {
+    color: red;
+   
+}
+h2.lastmatches {
+    color: darkred;
+    text-align: center;
+}
+table {
+    border-spacing: 0px;
+    margin: auto;
+    border-radius: 5px;
+    border-color: brown;
+}
+th {
+    background-color: rgb(33, 150, 245);
+    font-size: 23px;
+    height: 40px;
+    text-align: center;
+    
+}
+td {
+    
+    font-weight: bold;
+    font-size: 20px;
+    width: 1000px;
+    height: 40px;
+    text-align: center;
+    
+}
+.tables {
+    background-color: rgb(192, 171, 212);
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+    border-radius: 10px; 
+}
+p span {
+    font-size: 30px;
+    color: blue;
+    border: 3px dashed red;
+    padding: 10px;
+}
+.fans {
+    background-color: rgb(192, 171, 212);
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+    border-radius: 10px;  
+}
+
+.web {
+   
+    margin-left: 67px;
+    border-radius: 0px; 
+    position: relative;
+    left: 0px;
+    top: 0px;  
+}
+form {
+    float: left;
+    margin-right: 3px;
+}
+
+
+p.p {
+    font-size: 25px;
+    font-weight: bold;
+}
+tr:hover {
+    background: rgb(4, 177, 125);
+}
+td.L:hover {
+    background: red;
+}
+td.D:hover {
+    background: orange;
+}
+td.W:hover {
+    background: rgb(32, 228, 32);
+}
+input {
+    border-radius: 10px;
+    font-size: 20px;
+    background: rgb(192, 171, 212);
+    width: 250px;
+    height: 40px;
+}
+.player:hover {
+    background: yellowgreen;
+}
+.trans:hover {
+    background: yellowgreen;
+}
+.barca_photo:hover {
+    background: yellowgreen;
+}
+.photo {
+    background-color: rgb(192, 171, 212);
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+    border-radius: 10px; 
+}
+.video {
+    background-color: rgb(192, 171, 212);
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+    border-radius: 10px; 
+}
+video {
+    width: 500px;
+    height: 350px;
+}
+td.yy {
+    width: 500px;
+    height: 350px;
+}
+img.f1 {
+    width: 500px;
+    height: 350px;
+}
+img.f2 {
+    width: 500px;
+    height: 350px;
+}
+img.f3 {
+    width: 500px;
+    height: 350px;
+}
+img.f4 {
+    width: 500px;
+    height: 350px;
+}
+img.f5 {
+    width: 500px;
+    height: 350px;
+}
+img.f6 {
+    width: 500px;
+    height: 350px;
+}
+
+td.xx {
+    width: 500px;
+    height: 350px;
+}
+tr.xxx:hover {
+    background: rgb(192, 171, 212);
+}
+td.xx:hover {
+    background: blue;
+}
+
+img.f1 {
+    transition: all 1s ease; 
+    
+}    
+img.f1:hover {
+    transform: scale(1.5);
+}
+
+img.f2 {
+    transition: all 1s ease; 
+    
+}   
+img.f2:hover {
+    transform: scale(1.5);
+}
+
+img.f3 {
+    transition: all 1s ease; 
+    
+}   
+img.f3:hover {
+    transform: scale(1.5);
+}
+
+img.f4 {
+    transition: all 1s ease; 
+    
+}   
+img.f4:hover {
+    transform: scale(1.5);
+}
+
+img.f5 {
+    transition: all 1s ease; 
+    
+}   
+img.f5:hover {
+    transform: scale(1.5);
+}
+
+img.f6 {
+    transition: all 1s ease; 
+    
+}   
+img.f6:hover {
+    transform: scale(1.5);
+}
+video.barca1{
+    transition: all 1s ease;
+}
+video.barca1:hover{
+    transform: scale(1.5);
+}
